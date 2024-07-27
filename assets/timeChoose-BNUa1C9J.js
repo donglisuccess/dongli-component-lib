@@ -1,1 +1,0 @@
-import{d as c,a as r,o as l,c as m,b as _}from"./index-DXe0rjKz.js";const i=c({__name:"timeChoose",setup(p){const o=e=>{console.log("startChange:",e)},n=e=>{console.log("endChange:",e)},t={clearable:!1},s={};return(e,h)=>{const a=r("my-time-choose");return l(),m("div",null,[_(a,{startOptions:t,endOptions:s,onStartChange:o,onEndChange:n})])}}});export{i as default};

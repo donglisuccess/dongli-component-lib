@@ -1,0 +1,1 @@
+import{d as l,a as n,o as _,c as r,b as s,e}from"./index-DbnMmG6x.js";const m=e("br",null,null,-1),u=e("br",null,null,-1),p=e("br",null,null,-1),b=l({__name:"chooseArea",setup(h){const a=o=>{console.log(o)};return(o,d)=>{const c=n("my-choose-area"),t=n("my-choose-area-plus");return _(),r("div",null,[s(c,{onChange:a}),m,u,p,s(t)])}}});export{b as default};

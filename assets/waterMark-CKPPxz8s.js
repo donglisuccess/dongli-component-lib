@@ -1,1 +1,0 @@
-import{_ as t,a,o as r,c as o,b as c,w as n,f as s}from"./index-DXe0rjKz.js";const _={};function l(m,f){const e=a("my-water-mark");return r(),o("div",null,[c(e,null,{default:n(()=>[s(" 下载水印图片 ")]),_:1})])}const p=t(_,[["render",l]]);export{p as default};
