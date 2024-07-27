@@ -1,0 +1,1 @@
+import{d as s,a as c,o as r,c as l,b as _}from"./index-DXe0rjKz.js";const h=s({__name:"chooseDate",setup(d){const o={},t=e=>{console.log(e)},n=e=>{console.log(e)};return(e,m)=>{const a=c("my-choose-date");return r(),l("div",null,[_(a,{startOptions:o,beforeDisabled:!0,onStartDateChange:t,onEndDateChange:n})])}}});export{h as default};
